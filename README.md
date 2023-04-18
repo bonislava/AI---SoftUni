@@ -1,1 +1,1 @@
-# AI---SoftUni
+# AI-SoftUni
